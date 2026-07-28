@@ -58,8 +58,7 @@
       "apps": [
         {
           "type": "exe",
-          "path": "C:\\Users\\Tahmeed\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
-          "args": ["C:\\Projects\\MainProject"]
+          "path": "C:\\Users\\Tahmeed\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
         }
       ],
       "websites": [
