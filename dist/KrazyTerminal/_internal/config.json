@@ -1,0 +1,80 @@
+{
+  "app": {
+    "name": "Kr4zy Terminal",
+    "version": "0.1.0",
+    "window_width": 900,
+    "window_height": 600,
+    "start_with_windows": false,
+    "minimize_to_tray": true,
+    "global_hotkey": "ctrl+space"
+  },
+  "theme": {
+    "mode": "dark",
+    "accent_color": "#DEC446",
+    "background_color": "#1E1E1E",
+    "output_bg_color": "#141414",
+    "text_color": "#D4D4D4",
+    "error_color": "#F14C4C",
+    "success_color": "#4CD964",
+    "warning_color": "#E5C07B",
+    "font_family": "Consolas",
+    "font_size": 14
+  },
+  "history": {
+    "max_entries": 200,
+    "file": "history.json"
+  },
+  "logging": {
+    "directory": "logs",
+    "level": "INFO",
+    "max_bytes": 1048576,
+    "backup_count": 3
+  },
+  "workspaces": {
+    "college": {
+      "description": "College / study workspace",
+      "apps": [],
+      "websites": [
+        "https://classroom.google.com/u/6/h/st",
+        "https://cmsys.eng.rizvi.edu.in/student/dashboard?page=2"
+      ]
+    },
+    "gaming": {
+      "description": "Gaming workspace",
+      "apps": [
+        {
+          "type": "exe",
+          "path": "C:\\Program Files (x86)\\Steam\\Steam.exe"
+        },
+        {
+          "type": "exe",
+          "path": "C:\\Users\\Tahmeed\\AppData\\Local\\Discord\\Update.exe"
+        }
+      ],
+      "websites": []
+    },
+    "production": {
+      "description": "Production/work mode - VS Code + key work tabs",
+      "apps": [
+        {
+          "type": "exe",
+          "path": "C:\\Users\\Tahmeed\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+          "args": ["C:\\Projects\\MainProject"]
+        }
+      ],
+      "websites": [
+        "https://supabase.com/dashboard/org/pnczfaifzwqblrzsnoyn",
+        "https://github.com/Tahmeedzam",
+        "https://claude.ai/new"
+      ]
+    }
+  },
+  "plugins": {
+    "enabled": true,
+    "directory": "plugins"
+  },
+  "voice": {
+    "enabled": false,
+    "wake_word": "kr4zy"
+  }
+}

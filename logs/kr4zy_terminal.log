@@ -1,0 +1,149 @@
+2026-07-28 16:46:11 [kr4zy.__main__] ERROR: Fatal error during startup: module 'commands' has no attribute '__path__'
+2026-07-28 16:47:59 [kr4zy.command_registry] INFO: Registered command: clear (aliases: ['cls'])
+2026-07-28 16:47:59 [kr4zy.command_registry] INFO: Registered command: help (aliases: ['?'])
+2026-07-28 16:48:17 [kr4zy.terminal] ERROR: Unknown command: 'hello'. Type 'help' for a list.
+2026-07-28 16:48:20 [kr4zy.terminal] ERROR: Unknown command: 'flutter'. Type 'help' for a list.
+2026-07-28 16:48:27 [kr4zy.terminal] ERROR: Unknown command: 'hello'. Type 'help' for a list.
+2026-07-28 16:48:32 [kr4zy.terminal] ERROR: Unknown command: 'exit'. Type 'help' for a list.
+2026-07-28 16:48:34 [kr4zy.terminal] ERROR: Unknown command: 'close'. Type 'help' for a list.
+2026-07-28 16:56:15 [kr4zy.command_registry] INFO: Registered command: about (aliases: [])
+2026-07-28 16:56:15 [kr4zy.command_registry] INFO: Registered command: clear (aliases: ['cls'])
+2026-07-28 16:56:15 [kr4zy.command_registry] INFO: Registered command: exit (aliases: ['quit', 'q'])
+2026-07-28 16:56:15 [kr4zy.command_registry] INFO: Registered command: help (aliases: ['?'])
+2026-07-28 16:56:15 [kr4zy.command_registry] INFO: Registered command: history (aliases: ['hist'])
+2026-07-28 16:56:15 [kr4zy.command_registry] INFO: Registered command: reload (aliases: [])
+2026-07-28 16:56:15 [kr4zy.command_registry] INFO: Registered command: settings (aliases: [])
+2026-07-28 16:56:15 [kr4zy.command_registry] INFO: Registered command: version (aliases: ['ver'])
+2026-07-28 16:56:15 [kr4zy.command_registry] INFO: Registered command: workspace (aliases: ['ws'])
+2026-07-28 16:57:06 [kr4zy.launcher] ERROR: Application not found: C:\Users\YOURNAME\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-07-28 16:57:06 [kr4zy.terminal] ERROR: Application not found: C:\Users\YOURNAME\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-07-28 16:57:06 [kr4zy.launcher] INFO: Opened website: https://github.com
+2026-07-28 16:57:06 [kr4zy.launcher] INFO: Opened website: https://calendar.google.com
+2026-07-28 16:57:06 [kr4zy.launcher] INFO: Opened website: https://web.whatsapp.com
+2026-07-28 16:57:06 [kr4zy.launcher] INFO: Opened website: https://mail.google.com
+2026-07-28 16:57:34 [kr4zy.terminal] ERROR: Unknown command: 'production'. Type 'help' for a list.
+2026-07-28 16:57:46 [kr4zy.launcher] INFO: Launched: Steam.exe
+2026-07-28 16:57:52 [kr4zy.launcher] INFO: Opened website: https://leetcode.com
+2026-07-28 16:57:52 [kr4zy.launcher] INFO: Opened website: https://www.glassdoor.com
+2026-07-28 17:13:48 [kr4zy.command_registry] INFO: Registered command: about (aliases: [])
+2026-07-28 17:13:48 [kr4zy.command_registry] INFO: Registered command: clear (aliases: ['cls'])
+2026-07-28 17:13:48 [kr4zy.command_registry] INFO: Registered command: exit (aliases: ['quit', 'q'])
+2026-07-28 17:13:48 [kr4zy.command_registry] INFO: Registered command: help (aliases: ['?'])
+2026-07-28 17:13:48 [kr4zy.command_registry] INFO: Registered command: history (aliases: ['hist'])
+2026-07-28 17:13:48 [kr4zy.command_registry] INFO: Registered command: reload (aliases: [])
+2026-07-28 17:13:48 [kr4zy.command_registry] INFO: Registered command: settings (aliases: [])
+2026-07-28 17:13:48 [kr4zy.command_registry] INFO: Registered command: version (aliases: ['ver'])
+2026-07-28 17:13:48 [kr4zy.command_registry] INFO: Registered command: workspace (aliases: ['ws'])
+2026-07-28 17:13:48 [kr4zy.windows_integration] INFO: Tray icon started
+2026-07-28 17:14:13 [kr4zy.windows_integration] INFO: Window minimized to tray
+2026-07-28 17:22:10 [kr4zy.command_registry] INFO: Registered command: about (aliases: [])
+2026-07-28 17:22:10 [kr4zy.command_registry] INFO: Registered command: clear (aliases: ['cls'])
+2026-07-28 17:22:10 [kr4zy.command_registry] INFO: Registered command: exit (aliases: ['quit', 'q'])
+2026-07-28 17:22:10 [kr4zy.command_registry] INFO: Registered command: help (aliases: ['?'])
+2026-07-28 17:22:10 [kr4zy.command_registry] INFO: Registered command: history (aliases: ['hist'])
+2026-07-28 17:22:10 [kr4zy.command_registry] INFO: Registered command: reload (aliases: [])
+2026-07-28 17:22:10 [kr4zy.command_registry] INFO: Registered command: settings (aliases: [])
+2026-07-28 17:22:10 [kr4zy.command_registry] INFO: Registered command: version (aliases: ['ver'])
+2026-07-28 17:22:10 [kr4zy.command_registry] INFO: Registered command: workspace (aliases: ['ws'])
+2026-07-28 17:22:10 [kr4zy.windows_integration] INFO: Tray icon started
+2026-07-28 17:27:32 [kr4zy.command_registry] INFO: Registered command: about (aliases: [])
+2026-07-28 17:27:32 [kr4zy.command_registry] INFO: Registered command: clear (aliases: ['cls'])
+2026-07-28 17:27:32 [kr4zy.command_registry] INFO: Registered command: exit (aliases: ['quit', 'q'])
+2026-07-28 17:27:32 [kr4zy.command_registry] INFO: Registered command: help (aliases: ['?'])
+2026-07-28 17:27:32 [kr4zy.command_registry] INFO: Registered command: history (aliases: ['hist'])
+2026-07-28 17:27:32 [kr4zy.command_registry] INFO: Registered command: reload (aliases: [])
+2026-07-28 17:27:32 [kr4zy.command_registry] INFO: Registered command: settings (aliases: [])
+2026-07-28 17:27:32 [kr4zy.command_registry] INFO: Registered command: version (aliases: ['ver'])
+2026-07-28 17:27:32 [kr4zy.command_registry] INFO: Registered command: workspace (aliases: ['ws'])
+2026-07-28 17:27:33 [kr4zy.windows_integration] INFO: Tray icon started
+2026-07-28 17:27:34 [kr4zy.windows_integration] INFO: Window minimized to tray
+2026-07-28 17:35:52 [kr4zy.command_registry] INFO: Registered command: about (aliases: [])
+2026-07-28 17:35:52 [kr4zy.command_registry] INFO: Registered command: clear (aliases: ['cls'])
+2026-07-28 17:35:52 [kr4zy.command_registry] INFO: Registered command: exit (aliases: ['quit', 'q'])
+2026-07-28 17:35:52 [kr4zy.command_registry] INFO: Registered command: help (aliases: ['?'])
+2026-07-28 17:35:52 [kr4zy.command_registry] INFO: Registered command: history (aliases: ['hist'])
+2026-07-28 17:35:52 [kr4zy.command_registry] INFO: Registered command: reload (aliases: [])
+2026-07-28 17:35:52 [kr4zy.command_registry] INFO: Registered command: settings (aliases: [])
+2026-07-28 17:35:52 [kr4zy.command_registry] INFO: Registered command: version (aliases: ['ver'])
+2026-07-28 17:35:52 [kr4zy.command_registry] INFO: Registered command: workspace (aliases: ['ws'])
+2026-07-28 17:35:52 [kr4zy.windows_integration] INFO: Tray icon started
+2026-07-28 17:42:27 [kr4zy.windows_integration] INFO: Window minimized to tray
+2026-07-28 17:54:06 [kr4zy.command_registry] INFO: Registered command: about (aliases: [])
+2026-07-28 17:54:06 [kr4zy.command_registry] INFO: Registered command: clear (aliases: ['cls'])
+2026-07-28 17:54:06 [kr4zy.command_registry] INFO: Registered command: exit (aliases: ['quit', 'q'])
+2026-07-28 17:54:06 [kr4zy.command_registry] INFO: Registered command: help (aliases: ['?'])
+2026-07-28 17:54:06 [kr4zy.command_registry] INFO: Registered command: history (aliases: ['hist'])
+2026-07-28 17:54:06 [kr4zy.command_registry] INFO: Registered command: reload (aliases: [])
+2026-07-28 17:54:06 [kr4zy.command_registry] INFO: Registered command: settings (aliases: [])
+2026-07-28 17:54:06 [kr4zy.command_registry] INFO: Registered command: version (aliases: ['ver'])
+2026-07-28 17:54:06 [kr4zy.command_registry] INFO: Registered command: workspace (aliases: ['ws'])
+2026-07-28 17:54:06 [kr4zy.windows_integration] INFO: Tray icon started
+2026-07-28 17:54:39 [kr4zy.launcher] ERROR: Application not found: C:\Users\YOURNAME\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-07-28 17:54:39 [kr4zy.terminal] ERROR: Application not found: C:\Users\YOURNAME\AppData\Local\Programs\Microsoft VS Code\Code.exe
+2026-07-28 17:54:39 [kr4zy.launcher] INFO: Opened website: https://calendar.google.com
+2026-07-28 17:54:39 [kr4zy.launcher] INFO: Opened website: https://mail.google.com
+2026-07-28 17:54:39 [kr4zy.launcher] INFO: Opened website: https://web.whatsapp.com
+2026-07-28 17:54:39 [kr4zy.launcher] INFO: Opened website: https://github.com
+2026-07-28 17:59:59 [kr4zy.command_registry] INFO: Registered command: about (aliases: [])
+2026-07-28 17:59:59 [kr4zy.command_registry] INFO: Registered command: clear (aliases: ['cls'])
+2026-07-28 17:59:59 [kr4zy.command_registry] INFO: Registered command: exit (aliases: ['quit', 'q'])
+2026-07-28 17:59:59 [kr4zy.command_registry] INFO: Registered command: help (aliases: ['?'])
+2026-07-28 17:59:59 [kr4zy.command_registry] INFO: Registered command: history (aliases: ['hist'])
+2026-07-28 17:59:59 [kr4zy.command_registry] INFO: Registered command: reload (aliases: [])
+2026-07-28 17:59:59 [kr4zy.command_registry] INFO: Registered command: settings (aliases: [])
+2026-07-28 17:59:59 [kr4zy.command_registry] INFO: Registered command: version (aliases: ['ver'])
+2026-07-28 17:59:59 [kr4zy.command_registry] INFO: Registered command: workspace (aliases: ['ws'])
+2026-07-28 17:59:59 [kr4zy.windows_integration] INFO: Tray icon started
+2026-07-28 18:03:58 [kr4zy.command_registry] INFO: Registered command: about (aliases: [])
+2026-07-28 18:03:58 [kr4zy.command_registry] INFO: Registered command: clear (aliases: ['cls'])
+2026-07-28 18:03:58 [kr4zy.command_registry] INFO: Registered command: exit (aliases: ['quit', 'q'])
+2026-07-28 18:03:58 [kr4zy.command_registry] INFO: Registered command: help (aliases: ['?'])
+2026-07-28 18:03:58 [kr4zy.command_registry] INFO: Registered command: history (aliases: ['hist'])
+2026-07-28 18:03:58 [kr4zy.command_registry] INFO: Registered command: reload (aliases: [])
+2026-07-28 18:03:58 [kr4zy.command_registry] INFO: Registered command: settings (aliases: [])
+2026-07-28 18:03:58 [kr4zy.command_registry] INFO: Registered command: version (aliases: ['ver'])
+2026-07-28 18:03:58 [kr4zy.command_registry] INFO: Registered command: workspace (aliases: ['ws'])
+2026-07-28 18:03:58 [kr4zy.windows_integration] INFO: Tray icon started
+2026-07-28 18:05:03 [kr4zy.terminal] ERROR: Unknown command: 'celar'. Type 'help' for a list.
+2026-07-28 18:05:11 [kr4zy.command_registry] INFO: Registered command: about (aliases: [])
+2026-07-28 18:05:11 [kr4zy.command_registry] INFO: Registered command: clear (aliases: ['cls'])
+2026-07-28 18:05:11 [kr4zy.command_registry] INFO: Registered command: exit (aliases: ['quit', 'q'])
+2026-07-28 18:05:11 [kr4zy.command_registry] INFO: Registered command: help (aliases: ['?'])
+2026-07-28 18:05:11 [kr4zy.command_registry] INFO: Registered command: history (aliases: ['hist'])
+2026-07-28 18:05:11 [kr4zy.command_registry] INFO: Registered command: reload (aliases: [])
+2026-07-28 18:05:11 [kr4zy.command_registry] INFO: Registered command: settings (aliases: [])
+2026-07-28 18:05:11 [kr4zy.command_registry] INFO: Registered command: version (aliases: ['ver'])
+2026-07-28 18:05:11 [kr4zy.command_registry] INFO: Registered command: workspace (aliases: ['ws'])
+2026-07-28 18:05:12 [kr4zy.windows_integration] INFO: Tray icon started
+2026-07-28 18:05:21 [kr4zy.windows_integration] INFO: Window minimized to tray
+2026-07-28 18:09:40 [kr4zy.command_registry] INFO: Registered command: about (aliases: [])
+2026-07-28 18:09:40 [kr4zy.command_registry] INFO: Registered command: clear (aliases: ['cls'])
+2026-07-28 18:09:40 [kr4zy.command_registry] INFO: Registered command: exit (aliases: ['quit', 'q'])
+2026-07-28 18:09:40 [kr4zy.command_registry] INFO: Registered command: help (aliases: ['?'])
+2026-07-28 18:09:40 [kr4zy.command_registry] INFO: Registered command: history (aliases: ['hist'])
+2026-07-28 18:09:40 [kr4zy.command_registry] INFO: Registered command: reload (aliases: [])
+2026-07-28 18:09:40 [kr4zy.command_registry] INFO: Registered command: settings (aliases: [])
+2026-07-28 18:09:40 [kr4zy.command_registry] INFO: Registered command: version (aliases: ['ver'])
+2026-07-28 18:09:40 [kr4zy.command_registry] INFO: Registered command: workspace (aliases: ['ws'])
+2026-07-28 18:09:40 [kr4zy.windows_integration] INFO: Tray icon started
+2026-07-28 18:10:45 [kr4zy.command_registry] INFO: Registered command: about (aliases: [])
+2026-07-28 18:10:45 [kr4zy.command_registry] INFO: Registered command: clear (aliases: ['cls'])
+2026-07-28 18:10:45 [kr4zy.command_registry] INFO: Registered command: exit (aliases: ['quit', 'q'])
+2026-07-28 18:10:45 [kr4zy.command_registry] INFO: Registered command: help (aliases: ['?'])
+2026-07-28 18:10:45 [kr4zy.command_registry] INFO: Registered command: history (aliases: ['hist'])
+2026-07-28 18:10:45 [kr4zy.command_registry] INFO: Registered command: reload (aliases: [])
+2026-07-28 18:10:45 [kr4zy.command_registry] INFO: Registered command: settings (aliases: [])
+2026-07-28 18:10:45 [kr4zy.command_registry] INFO: Registered command: version (aliases: ['ver'])
+2026-07-28 18:10:45 [kr4zy.command_registry] INFO: Registered command: workspace (aliases: ['ws'])
+2026-07-28 18:10:45 [kr4zy.windows_integration] INFO: Tray icon started
+2026-07-28 18:11:15 [kr4zy.windows_integration] INFO: Window minimized to tray
+2026-07-28 18:11:18 [kr4zy.command_registry] INFO: Registered command: about (aliases: [])
+2026-07-28 18:11:18 [kr4zy.command_registry] INFO: Registered command: clear (aliases: ['cls'])
+2026-07-28 18:11:18 [kr4zy.command_registry] INFO: Registered command: exit (aliases: ['quit', 'q'])
+2026-07-28 18:11:18 [kr4zy.command_registry] INFO: Registered command: help (aliases: ['?'])
+2026-07-28 18:11:18 [kr4zy.command_registry] INFO: Registered command: history (aliases: ['hist'])
+2026-07-28 18:11:18 [kr4zy.command_registry] INFO: Registered command: reload (aliases: [])
+2026-07-28 18:11:18 [kr4zy.command_registry] INFO: Registered command: settings (aliases: [])
+2026-07-28 18:11:18 [kr4zy.command_registry] INFO: Registered command: version (aliases: ['ver'])
+2026-07-28 18:11:18 [kr4zy.command_registry] INFO: Registered command: workspace (aliases: ['ws'])
+2026-07-28 18:11:18 [kr4zy.windows_integration] INFO: Tray icon started
