@@ -1,0 +1,15 @@
+2026-07-28 18:53:06 [kr4zy.command_registry] INFO: Registered command: about (aliases: [])
+2026-07-28 18:53:06 [kr4zy.command_registry] INFO: Registered command: clear (aliases: ['cls'])
+2026-07-28 18:53:06 [kr4zy.command_registry] INFO: Registered command: exit (aliases: ['quit', 'q'])
+2026-07-28 18:53:06 [kr4zy.command_registry] INFO: Registered command: help (aliases: ['?'])
+2026-07-28 18:53:06 [kr4zy.command_registry] INFO: Registered command: history (aliases: ['hist'])
+2026-07-28 18:53:06 [kr4zy.command_registry] INFO: Registered command: reload (aliases: [])
+2026-07-28 18:53:06 [kr4zy.command_registry] INFO: Registered command: settings (aliases: [])
+2026-07-28 18:53:06 [kr4zy.command_registry] INFO: Registered command: version (aliases: ['ver'])
+2026-07-28 18:53:06 [kr4zy.command_registry] INFO: Registered command: workspace (aliases: ['ws'])
+2026-07-28 18:53:06 [kr4zy.terminal] WARNING: Could not set window icon: bitmap "F:\CodeStuff\kr4zy-terminal\dist\KrazyTerminal\assets\icon.ico" not defined
+2026-07-28 18:53:07 [kr4zy.windows_integration] INFO: Tray icon started
+2026-07-28 18:53:15 [kr4zy.launcher] INFO: Launched: Code.exe
+2026-07-28 18:53:15 [kr4zy.launcher] INFO: Opened website: https://supabase.com/dashboard/org/pnczfaifzwqblrzsnoyn
+2026-07-28 18:53:15 [kr4zy.launcher] INFO: Opened website: https://github.com/Tahmeedzam
+2026-07-28 18:53:15 [kr4zy.launcher] INFO: Opened website: https://claude.ai/new
